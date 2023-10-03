@@ -11,6 +11,12 @@
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
+1. Select 'Assembly of Polar 3D Printer' from the visible list.
+2. All the parts related to Polar 3D Printer will be shown on the screen.
+3. Select the parts in sequence in which they are shown.
+4. When the first part is selected then it will open in the blank space in the left side of the screen.
+5. Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+6. If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## Assembly of Polar 3D Printer
 ### 1.	Select 'Assembly of Polar 3D Printer' from the visible list.
@@ -31,10 +37,14 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
+## OUTPUT:
+![image](https://github.com/Praveen22042005/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/112475766/c57f2d88-3b08-4234-993c-100d4224cb35)
+
+
 ## Output:
 
-### Name:
-### Register Number:
+### Name: PRAVEEN BV
+### Register Number: 212222100036
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
